@@ -1,0 +1,58 @@
+/* body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	background:#333;
+} */
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header_logo{
+    background-color: #111;
+}
+
+.team_section{
+    background-color: #111;
+}
+
+.tabls_section{
+    background-color:black;
+}
+
+/* social section */
+
+.social_menu {
+    background-color: #111;
+    padding: 20px 0px;
+}
+
+.social_menu ul {
+    text-align: center;
+}
+
+.social_menu ul li {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.social_menu ul li a {
+    display: inline-block;
+    color: black;
+    font-size: 25px;
+    height: 35px;
+    width: 36px;
+    background-color: #494845;
+    line-height: 35px;
+    transition: 0.4s;
+}
+
+.social_menu ul li a:hover {
+    background-color: #8d7100;
+    color: tomato;
+}
+
+.footer_section{
+
+    background-color: black;
+}
+
